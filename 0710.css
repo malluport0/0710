@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .box{border:1px solid #ccc;
     width: 500px;
     height: 300px;
@@ -18,4 +19,26 @@
     min-height: 246px;
     padding: 5px;
     box-sizing: border-box;
+=======
+.box{border:1px solid #ccc;
+    width: 500px;
+    height: 300px;
+    border-radius: 6px;
+    padding: 8px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.titulo{background-color: #3498DB;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px 5px 0px 0px ;
+}
+.box-corpo{
+    margin-top: 5px;
+    background-color: #ecf0f1;
+    min-height: 246px;
+    padding: 5px;
+    box-sizing: border-box;
+>>>>>>> 84ebc1b63ce1e903b8cd33f7679812c0e0d1b55b
 }
