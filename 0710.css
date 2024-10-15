@@ -1,0 +1,21 @@
+.box{border:1px solid #ccc;
+    width: 500px;
+    height: 300px;
+    border-radius: 6px;
+    padding: 8px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.titulo{background-color: #3498DB;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px 5px 0px 0px ;
+}
+.box-corpo{
+    margin-top: 5px;
+    background-color: #ecf0f1;
+    min-height: 246px;
+    padding: 5px;
+    box-sizing: border-box;
+}
